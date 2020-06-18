@@ -18,3 +18,6 @@ The WDI_all_in_one app utilizes the power of the [shinydashboard](http://rstudio
 *	Palette type selection between continuous, improved bins (with a proprietary algorithm) and quantile ones
 *	Map type selection between regular and scaled (normalized cartogram-like)
 *	[Leaflet](https://rstudio.github.io/leaflet/) map [provider selection](http://leaflet-extras.github.io/leaflet-providers/preview/index.html) of 9 different versions of Esri, Stamen and Carto types
+
+#### Here's the direct access to the WDI_all_in_one shinyapp:
+ https://ksimi.shinyapps.io/WDI_all_in_one/
