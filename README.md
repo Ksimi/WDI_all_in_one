@@ -1,10 +1,10 @@
 ### World Development Indicators – all info on one screen
 
-The [World Development Indicators](http://datatopics.worldbank.org/world-development-indicators/ "World Development Indicators homepage") is a compilation of relevant, high-quality, and internationally comparable statistics compiled by the World Bank from officially recognized international sources. The database contains 1,400+ time series indicators for 217 economies with data for many indicators going back more than 50 years.
+The [World Development Indicators](http://datatopics.worldbank.org/world-development-indicators/) is a compilation of relevant, high-quality, and internationally comparable statistics compiled by the World Bank from officially recognized international sources. The database contains 1,400+ time series indicators for 217 economies with data for many indicators going back more than 50 years.
 
 #### The WDI helps data users find information related to all aspects of development, both historical and current, and to follow trends and monitor progress towards a myriad of goals and targets. The database is compiled from officially-recognized sources and includes national, regional, and global estimates.
 
-The WDI_all_in_one app utilizes the power of the [shinydashboard](http://rstudio.github.io/shinydashboard/index.html "shinydashboard homepage") package and provides a convenient interface to represent a selected WDI indicator on one screen:
+The WDI_all_in_one app utilizes the power of the [shinydashboard](http://rstudio.github.io/shinydashboard/index.html) package and provides a convenient interface to represent a selected WDI indicator on one screen:
 *	On a big choropleth map
 *	As top 10/ bottom 10 countries view: a) on a smaller choropleth map; b) on a bar chart
 *	As a progression of the world level values through the years
@@ -17,4 +17,4 @@ The WDI_all_in_one app utilizes the power of the [shinydashboard](http://rstudio
 *	Extensive palette color selection between sequential and diverging colors, including colorblind-safe sets
 *	Palette type selection between continuous, improved bins (with a proprietary algorithm) and quantile ones
 *	Map type selection between regular and scaled (normalized cartogram-like)
-*	Leaflet map [provider selection](http://leaflet-extras.github.io/leaflet-providers/preview/index.html) of 9 different version of Esri, Stamen and Carto types
+*	[Leaflet](https://rstudio.github.io/leaflet/) map [provider selection](http://leaflet-extras.github.io/leaflet-providers/preview/index.html) of 9 different versions of Esri, Stamen and Carto types
