@@ -5,7 +5,7 @@ The [World Development Indicators](http://datatopics.worldbank.org/world-develop
 #### The WDI helps data users find information related to all aspects of development, both historical and current, and to follow trends and monitor progress towards a myriad of goals and targets. The database is compiled from officially-recognized sources and includes national, regional, and global estimates.
 
 The WDI_all_in_one app utilizes the power of the [shinydashboard](http://rstudio.github.io/shinydashboard/index.html) package and provides a convenient interface to represent a selected WDI indicator on one screen:
-*	On a big choropleth map
+*	On a big choropleth map driven by [Leaflet](https://rstudio.github.io/leaflet/)
 *	As top 10/ bottom 10 countries view: a) on a smaller choropleth map; b) on a bar chart
 *	As a progression of the world level values through the years
 *	Including the full collateral info, such as indicator definition, development relevance, periodicity etc.
