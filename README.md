@@ -1,4 +1,5 @@
 ### World Development Indicators – all info on one screen
+![alt-text](WDI_all_in_one/data-raw/Screenshot 2020-09-16 131325.png)
 
 The [World Development Indicators](http://datatopics.worldbank.org/world-development-indicators/) is a compilation of relevant, high-quality, and internationally comparable statistics compiled by the World Bank from officially recognized international sources. The database contains 1,400+ time series indicators for 217 economies with data for many indicators going back more than 50 years.
 
