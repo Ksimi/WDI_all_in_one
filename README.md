@@ -11,6 +11,8 @@ The WDI_all_in_one app utilizes the power of the [shinydashboard](http://rstudio
 *	As a progression of the world level values through the years
 *	Including the full collateral info, such as indicator definition, development relevance, periodicity etc.
 
+The maps are **interactive on hover** and show the detailed indicator stats per country per year.
+
 #### The app features:
 *	One universal tool for all indicators
 * Interdependent filtering by topic, up to three subtopics and a year
